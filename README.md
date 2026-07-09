@@ -515,7 +515,7 @@ Month-over-Month (MoM) analysis indicates strong revenue growth in early 2023 wi
 
 ***Figure 1: Executive dashboard summarizing revenue, sales trends, and category performance***
 
-![Overview](Chart_Images/Overview.jpg)
+<img src="Chart_Images/Overview.jpg" width="90%">
 
 ---
 
@@ -531,7 +531,7 @@ Bronze customers are the largest segment in terms of revenue ($99.54K) because t
 
 ***Figure 2: Customer demographics, loyalty segmentation, and Customer Lifetime Value (CLV) analysis***
 
-![Demographic](Chart_Images/Demographic.jpg)
+<img src="Chart_Images/Demographic.jpg" width="90%">
 
 ---
 
@@ -554,8 +554,7 @@ Referral traffic converts better on mobile and tablet devices than traditional d
 
 ***Figure 3: Customer journey from product views to completed purchases, highlighting the 82.80% cart abandonment rate***
 
-![Conversion](Chart_Images/Conversion.jpg)
-
+<img src="Chart_Images/Conversion.jpg" width="90%">
 ---
 
 ### 4. Inventory & Product Availability
@@ -566,7 +565,7 @@ However, Electronics generates the highest revenue; therefore, it is vital to ma
 
 ***Figure 4: Inventory levels, product availability, and stockout risk across product categories***
 
-![Inventory](Chart_Images/Inventory.jpg)
+<img src="Chart_Images/Inventory.jpg" width="90%">
 
 ---
 
@@ -582,7 +581,7 @@ The AI Key Influencers visual in Power BI also shows that customers in the Plati
 
 ***Figure 5: Product review analysis, customer satisfaction metrics, and AI Key Influencers results***
 
-![Review](Chart_Images/Review.jpg)
+<img src="Chart_Images/Review.jpg" width="90%">
 
 ---
 
