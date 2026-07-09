@@ -515,9 +515,7 @@ Month-over-Month (MoM) analysis indicates strong revenue growth in early 2023 wi
 
 ***Figure 1: Executive dashboard summarizing revenue, sales trends, and category performance***
 
-<p align="center">
-  <img src="Chart_Images/Overview.jpg" width="800">
-</p>
+![Overview](Chart_Images/Overview.jpg)
 
 ---
 
@@ -533,9 +531,7 @@ Bronze customers are the largest segment in terms of revenue ($99.54K) because t
 
 ***Figure 2: Customer demographics, loyalty segmentation, and Customer Lifetime Value (CLV) analysis***
 
-<p align="center">
-  <img src="Chart_Images/Demographic.jpg" width="800">
-</p>
+![Demographic](Chart_Images/Demographic.jpg)
 
 ---
 
@@ -558,9 +554,7 @@ Referral traffic converts better on mobile and tablet devices than traditional d
 
 ***Figure 3: Customer journey from product views to completed purchases, highlighting the 82.80% cart abandonment rate***
 
-<p align="center">
-  <img src="Chart_Images/Conversion.jpg" width="800">
-</p>
+![Conversion](Chart_Images/Conversion.jpg)
 
 ---
 
@@ -572,9 +566,7 @@ However, Electronics generates the highest revenue; therefore, it is vital to ma
 
 ***Figure 4: Inventory levels, product availability, and stockout risk across product categories***
 
-<p align="center">
-  <img src="Chart_Images/Inventory.jpg" width="800">
-</p>
+![Inventory](Chart_Images/Inventory.jpg)
 
 ---
 
@@ -590,9 +582,7 @@ The AI Key Influencers visual in Power BI also shows that customers in the Plati
 
 ***Figure 5: Product review analysis, customer satisfaction metrics, and AI Key Influencers results***
 
-<p align="center">
-  <img src="Chart_Images/Review.jpg" width="800">
-</p>
+![Review](Chart_Images/Review.jpg)
 
 ---
 
